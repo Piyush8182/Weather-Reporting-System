@@ -2,9 +2,6 @@
 <hr/>
 This is a simple weather monitoring system using Arduino UNO R3 
 
-Get this repository using : <br>
-<code> git clone https://github.com/Pika1998/simple-weather-monitor.git </code>
-<br>
 
 This repositary offers:- <br>
 <ol>
